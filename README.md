@@ -1,0 +1,1 @@
+<h1>Kommer fungera som bäst på en dator med eget grafikkort</h1>
